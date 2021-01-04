@@ -7,4 +7,9 @@ public class TestA {
 
     public TestA() {
     }
+
+
+    public TestA(String age) {
+        this.age = age;
+    }
 }
